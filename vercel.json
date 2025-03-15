@@ -6,15 +6,15 @@
         },
         {
             "source": "/(.*)",
-            "destination": "/dist/index.html"
+            "destination": "/index.html"
         }
     ],
     "redirects": [
         {
             "source": "/(.*)",
-            "destination": "/dist/index.html",
+            "destination": "/index.html",
             "statusCode": 200
         }
     ],
-    "outputDirectory": "dist"
+    "outputDirectory": "build"
 }
