@@ -19,7 +19,7 @@ export default defineConfig({
   },
   css: {
     modules: {
-      localsConvention: 'camelCaseOnly', // Pastikan pakai camelCase
+      localsConvention: 'camelCaseOnly',
     }
   }
 })

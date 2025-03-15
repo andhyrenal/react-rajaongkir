@@ -3,6 +3,10 @@
         {
             "source": "/api/:path*",
             "destination": "/api/proxy.js"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
         }
     ],
     "redirects": [
