@@ -16,5 +16,5 @@
             "statusCode": 200
         }
     ],
-    "outputDirectory": "build"
+    "outputDirectory": "/dist/"
 }
