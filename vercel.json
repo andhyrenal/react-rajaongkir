@@ -15,5 +15,6 @@
             "destination": "/dist/index.html",
             "statusCode": 200
         }
-    ]
+    ],
+    "outputDirectory": "dist"
 }
