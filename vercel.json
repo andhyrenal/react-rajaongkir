@@ -9,6 +9,12 @@
             "destination": "/"
         }
     ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
+        }
+    ],
     "redirects": [
         {
             "source": "/(.*)",
